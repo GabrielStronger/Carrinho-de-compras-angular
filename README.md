@@ -21,4 +21,4 @@ Este projeto é um carrinho de compras desenvolvido com Angular, que simula uma 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/GabrielStronger/nome-do-repositorio.git
